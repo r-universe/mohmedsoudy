@@ -3,8 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MERO"]
+	path = MERO
+	url = https://github.com/cran/MERO
+	shallow = true
+	registered = true
 [submodule "ORTSC"]
 	path = ORTSC
 	url = https://github.com/mohmedsoudy/ortsc
+	shallow = true
+	registered = true
+[submodule "ResearchAssociate"]
+	path = ResearchAssociate
+	url = https://github.com/cran/ResearchAssociate
 	shallow = true
 	registered = true
