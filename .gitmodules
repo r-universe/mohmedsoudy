@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ggaligner"]
+	path = ggaligner
+	url = https://github.com/mohmedsoudy/ggaligner
+	shallow = true
+	registered = true
 [submodule "MERO"]
 	path = MERO
 	url = https://github.com/cran/MERO
