@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DFD"]
+	path = DFD
+	url = https://github.com/mohmedsoudy/dfd
 [submodule "MERO"]
 	path = MERO
 	url = https://github.com/cran/MERO
