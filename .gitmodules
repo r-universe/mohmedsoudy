@@ -14,6 +14,9 @@
 [submodule "ResearchAssociate"]
 	path = ResearchAssociate
 	url = https://github.com/cran/ResearchAssociate
+[submodule "ScRNAIMM"]
+	path = ScRNAIMM
+	url = https://github.com/cran/ScRNAIMM
 [submodule "ggaligner"]
 	path = ggaligner
 	url = https://github.com/mohmedsoudy/ggaligner
