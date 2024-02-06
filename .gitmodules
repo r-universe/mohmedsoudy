@@ -16,7 +16,7 @@
 	url = https://github.com/cran/ResearchAssociate
 [submodule "ScRNAIMM"]
 	path = ScRNAIMM
-	url = https://github.com/cran/ScRNAIMM
+	url = https://github.com/mohmedsoudy/scrnaimm
 [submodule "ggaligner"]
 	path = ggaligner
 	url = https://github.com/mohmedsoudy/ggaligner
