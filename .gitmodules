@@ -20,3 +20,6 @@
 [submodule "ggaligner"]
 	path = ggaligner
 	url = https://github.com/mohmedsoudy/ggaligner
+[submodule "sccca"]
+	path = sccca
+	url = https://github.com/cran/sccca
