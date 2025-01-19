@@ -11,9 +11,6 @@
 [submodule "ORTSC"]
 	path = ORTSC
 	url = https://github.com/mohmedsoudy/ortsc
-[submodule "ResearchAssociate"]
-	path = ResearchAssociate
-	url = https://github.com/cran/ResearchAssociate
 [submodule "ScRNAIMM"]
 	path = ScRNAIMM
 	url = https://github.com/mohmedsoudy/scrnaimm
