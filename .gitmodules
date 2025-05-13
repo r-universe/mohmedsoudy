@@ -11,9 +11,6 @@
 [submodule "ORTSC"]
 	path = ORTSC
 	url = https://github.com/mohmedsoudy/ortsc
-[submodule "ScRNAIMM"]
-	path = ScRNAIMM
-	url = https://github.com/mohmedsoudy/scrnaimm
 [submodule "ggaligner"]
 	path = ggaligner
 	url = https://github.com/mohmedsoudy/ggaligner
